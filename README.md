@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Andre-yoda" src="https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif">
+  <img align="right" alt="Andre-yoda" src="https://media.giphy.com/media/l3vRkmX2yCWOtys6s/giphy.gif">
 </div>
   
   ##
