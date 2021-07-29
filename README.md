@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="And-Spok" src="https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif" width="150" height="150">
 </div>
+  
+  ##
  
 <div> 
    <a href = "mailto:andrelscavalcanti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
