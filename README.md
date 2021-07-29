@@ -33,4 +33,7 @@ You can click the Preview link to take a look at your changes.
   
   ![Snake animation](https://github.com/andrecavalcanti18111983/andrecavalcanti18111983/blob/output/github-contribution-grid-snake.svg)
  
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+
+ 
  
