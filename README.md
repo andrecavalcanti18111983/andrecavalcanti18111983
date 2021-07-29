@@ -3,7 +3,7 @@ andrecavalcanti18111983/andrecavalcanti18111983 is a ✨ special ✨ repository 
 You can click the Preview link to take a look at your changes.
 --->
 
-## - 👋 Hi, I’m Andre Cavalcanti
+##   👋 Hi, I’m Andre Cavalcanti
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any projects
