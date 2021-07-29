@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="And-Spok" src="https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif">
+  <img align="right" alt="And-Spok" src="https://media.giphy.com/media/2EzVNMLqpNVn2/giphy.gif">
 </div>
   
   ##
