@@ -9,9 +9,14 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Reach me out on andrelscavalcanti@gmail.com
 
- <div>
+<!-- <div>
   <a href="https://github.com/andrecavalcanti18111983">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecavalcanti18111983&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecavalcanti18111983&layout=compact&langs_count=7&theme=dracula"/>
+</div>-->
+  <div>
+  <a href="https://github.com/andrecavalcanti18111983">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecavalcanti18111983&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecavalcanti18111983&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
